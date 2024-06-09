@@ -1,2 +1,3 @@
-let n:String="aayush";
-console.log(n)
+let user:string="aayush";
+console.log(user)
+export {}

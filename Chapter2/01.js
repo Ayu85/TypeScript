@@ -1,2 +1,2 @@
-var n = "aayush";
-console.log(n);
+var user = "aayush";
+console.log(user);
