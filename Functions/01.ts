@@ -5,7 +5,7 @@
 // }
 // add("aayush");
 
-// this is possible
+// this is possible, this can only accept numbers 
 function add(num:number){
     console.log(num+5)
 }
