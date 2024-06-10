@@ -14,3 +14,8 @@ function getUpperCase(val) {
     console.log(val.toUpperCase());
 }
 getUpperCase("aayush");
+function signUpUser(name, mail, isPaid) {
+    if (isPaid === void 0) { isPaid = false; }
+    console.log("Hey ", name);
+}
+signUpUser("aayush", "aaa@dev");
