@@ -10,4 +10,8 @@ function add(num:number){
     console.log(num+5)
 }
 add(2.5)
+function getUpperCase(val:string){
+    console.log(val.toUpperCase())
+}
+getUpperCase("aayush")
 export{}
